@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#008577</color>
+    <color name="purple_500">#008577</color>
+    <color name="purple_700">#00574B</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="pending">#FF9800</color>
+    <color name="process">#01AED8</color>
+    <color name="done">#4CAF50</color>
+    <color name="grey">#D1D1D1</color>
+    <color name="primary">#01AED8</color>
+    <color name="me_message">#E1E1E1</color>
+    <color name="other_message">#01AED8</color>
+</resources>

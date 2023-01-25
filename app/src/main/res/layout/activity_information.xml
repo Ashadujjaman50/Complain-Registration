@@ -1,0 +1,140 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context="com.ashadujjaman.cregistration.Information">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme" >
+        <TextView
+            android:id="@+id/informationToolbarTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Profile"
+            android:textSize="@dimen/normal_text"
+            android:textColor="@color/white"
+            android:padding="@dimen/inner_pad"
+            />
+    </androidx.appcompat.widget.Toolbar>
+
+    <EditText
+        android:id="@+id/profileName"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:background="@drawable/round_back_dark_blue"
+        android:hint="@string/full_name"
+        android:maxLines="1"
+        android:inputType="text"
+        android:textSize="16sp"
+        android:paddingStart="20dp"
+        android:paddingEnd="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="20dp"
+        android:autofillHints="full name" />
+
+    <EditText
+        android:id="@+id/profileNumber"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:background="@drawable/round_back_dark_blue"
+        android:hint="@string/number"
+        android:maxLines="1"
+        android:inputType="phone"
+        android:textSize="16sp"
+        android:paddingStart="20dp"
+        android:paddingEnd="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="20dp"
+        android:autofillHints="Number" />
+
+    <EditText
+        android:id="@+id/profileFatherName"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:background="@drawable/round_back_dark_blue"
+        android:hint="@string/father_s_name"
+        android:maxLines="1"
+        android:inputType="text"
+        android:textSize="16sp"
+        android:paddingStart="20dp"
+        android:paddingEnd="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="20dp"
+        android:autofillHints="Father name" />
+
+    <EditText
+        android:id="@+id/emergencyContact1"
+        android:layout_width="match_parent"
+        android:layout_height="48sp"
+        android:background="@drawable/round_back_dark_blue"
+        android:hint="@string/emergency_contact_1"
+        android:maxLines="1"
+        android:inputType="phone"
+        android:textSize="16sp"
+        android:paddingStart="20dp"
+        android:paddingEnd="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="20dp"
+        android:autofillHints="emergency contact" />
+
+    <EditText
+        android:visibility="gone"
+        android:id="@+id/emergencyContact2"
+        android:layout_width="match_parent"
+        android:layout_height="48sp"
+        android:background="@drawable/round_back_dark_blue"
+        android:hint="@string/emergency_contact_2"
+        android:maxLines="1"
+        android:inputType="phone"
+        android:textSize="16sp"
+        android:paddingStart="20dp"
+        android:paddingEnd="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="20dp"
+        android:autofillHints="emergency contact" />
+
+    <EditText
+        android:id="@+id/profileAddress"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:background="@drawable/round_back_dark_blue"
+        android:hint="@string/address"
+        android:maxLines="1"
+        android:inputType="textPostalAddress"
+        android:textSize="16sp"
+        android:paddingStart="20dp"
+        android:paddingEnd="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="20dp"
+        android:autofillHints="Address" />
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/updateBtn"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:text="@string/update_profile"
+        android:onClick="updateProfile"
+        android:textAllCaps="false"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/round_back_primary"
+        android:textColor="#FFFFFFFF"/>
+
+
+
+</LinearLayout>

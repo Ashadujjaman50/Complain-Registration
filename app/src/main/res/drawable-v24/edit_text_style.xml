@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <corners android:bottomRightRadius="@dimen/inner_pad"
+        android:topLeftRadius="@dimen/inner_pad"
+        android:topRightRadius="@dimen/inner_pad"
+        android:bottomLeftRadius="@dimen/inner_pad"/>
+    <stroke android:width="1sp"
+        android:color="@color/black"/>
+</shape>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sign_in">Sign in</string>
+    <string name="please_login_to_your_account">Please login to your account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="user_name">User Name</string>
+    <string name="mobile">Mobile</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="email_verification_popup_message">We send you a verification mail to your email address which you provide.
+        Please, check your email and verify your account.
+        After verification you can login your account.
+    </string>
+    <string name="ok">Ok</string>
+    <string name="full_name">Full Name</string>
+    <string name="number">Number</string>
+    <string name="father_s_name">Father\'s Name</string>
+    <string name="emergency_contact_1">Emergency Contact 1</string>
+    <string name="emergency_contact_2">Emergency Contact 2</string>
+    <string name="address">Address</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="complain_title">Complain Title</string>
+    <string name="complain_description">Complain Description</string>
+    <string name="complain_image">Complain Image</string>
+    <string name="submit">Submit</string>
+</resources>

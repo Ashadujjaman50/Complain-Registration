@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/chatMeLay"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingLeft="50sp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:layout_marginTop="@dimen/message_pad"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/chatMessageMe"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:background="@drawable/message_style_me"
+                android:gravity="start"
+                android:padding="@dimen/message_pad"
+                android:text="This is"
+                android:textSize="@dimen/small_text" />
+
+            <TextView
+                android:id="@+id/chatSentTimeMe"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:padding="@dimen/message_pad"
+                android:layout_gravity="center"
+                android:visibility="gone"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/chatOtherLay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingRight="50sp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/message_pad"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/chatSentTime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:padding="@dimen/message_pad"
+                android:gravity="center"
+                android:text="Admin"
+                android:visibility="visible"/>
+
+            <TextView
+                android:id="@+id/chatMessage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/message_style"
+                android:gravity="start"
+                android:padding="@dimen/message_pad"
+                android:text="THis is message which is sent by the other person"
+                android:textSize="@dimen/small_text" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

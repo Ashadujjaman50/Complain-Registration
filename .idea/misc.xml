@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../priom/professional/womensafety/app/src/main/res/drawable/ic_home.xml" value="0.132" />
+        <entry key="../../../priom/professional/womensafety/app/src/main/res/drawable/round_back_dark_blue.xml" value="0.132" />
+        <entry key="../../../priom/professional/womensafety/app/src/main/res/drawable/round_back_primary.xml" value="0.132" />
+        <entry key="../../../priom/professional/womensafety/app/src/main/res/layout/activity_complaint2.xml" value="0.27717391304347827" />
+        <entry key="../../../priom/professional/womensafety/app/src/main/res/layout/activity_drawer_base.xml" value="0.27717391304347827" />
+        <entry key="../../../priom/professional/womensafety/app/src/main/res/layout/activity_emergency1.xml" value="0.1" />
+        <entry key="../../../priom/professional/womensafety/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="../../../priom/professional/womensafety/app/src/main/res/layout/activity_information.xml" value="0.27717391304347827" />
+        <entry key="../../../priom/professional/womensafety/app/src/main/res/layout/activity_profile.xml" value="0.27717391304347827" />
+        <entry key="../../../priom/professional/womensafety/app/src/main/res/layout/activity_scholar2.xml" value="0.27717391304347827" />
+        <entry key="../../../priom/professional/womensafety/app/src/main/res/layout/activity_support2.xml" value="0.1" />
+        <entry key="../../../priom/professional/womensafety/app/src/main/res/layout/content_layout.xml" value="0.27717391304347827" />
+        <entry key="../../../priom/professional/womensafety/app/src/main/res/layout/nav_header.xml" value="0.27717391304347827" />
+        <entry key="../../../priom/professional/womensafety/app/src/main/res/layout/toolbar.xml" value="0.27717391304347827" />
+        <entry key="../../../priom/professional/womensafety/app/src/main/res/menu/drawer_menu.xml" value="0.30885416666666665" />
+        <entry key="..\:/Our Sourcing/Android App/Chatting App/User/app/src/main/res/drawable-v24/edit_text_style.xml" value="0.278" />
+        <entry key="..\:/Our Sourcing/Android App/Chatting App/User/app/src/main/res/drawable/edit_text_style.xml" value="0.278" />
+        <entry key="..\:/Our Sourcing/Android App/Chatting App/User/app/src/main/res/drawable/ic_message_send.xml" value="0.137" />
+        <entry key="..\:/Our Sourcing/Android App/Chatting App/User/app/src/main/res/drawable/message_style.xml" value="0.278" />
+        <entry key="..\:/Our Sourcing/Android App/Chatting App/User/app/src/main/res/drawable/message_style_me.xml" value="0.279" />
+        <entry key="..\:/Our Sourcing/Android App/Chatting App/User/app/src/main/res/layout/activity_chat2.xml" value="0.27447916666666666" />
+        <entry key="..\:/Our Sourcing/Android App/Chatting App/User/app/src/main/res/layout/activity_current_location.xml" value="0.1" />
+        <entry key="..\:/Our Sourcing/Android App/Chatting App/User/app/src/main/res/layout/activity_home.xml" value="0.27447916666666666" />
+        <entry key="..\:/Our Sourcing/Android App/Chatting App/User/app/src/main/res/layout/activity_information.xml" value="0.27447916666666666" />
+        <entry key="..\:/Our Sourcing/Android App/Chatting App/User/app/src/main/res/layout/activity_login.xml" value="0.27447916666666666" />
+        <entry key="..\:/Our Sourcing/Android App/Chatting App/User/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Our Sourcing/Android App/Chatting App/User/app/src/main/res/layout/activity_message.xml" value="0.27447916666666666" />
+        <entry key="..\:/Our Sourcing/Android App/Chatting App/User/app/src/main/res/layout/activity_nearby_hospital.xml" value="0.1" />
+        <entry key="..\:/Our Sourcing/Android App/Chatting App/User/app/src/main/res/layout/activity_nearby_police.xml" value="0.264" />
+        <entry key="..\:/Our Sourcing/Android App/Chatting App/User/app/src/main/res/layout/activity_profile.xml" value="0.27447916666666666" />
+        <entry key="..\:/Our Sourcing/Android App/Chatting App/User/app/src/main/res/layout/activity_register.xml" value="0.27447916666666666" />
+        <entry key="..\:/Our Sourcing/Android App/Chatting App/User/app/src/main/res/layout/activity_scholar2.xml" value="0.27447916666666666" />
+        <entry key="..\:/Our Sourcing/Android App/Chatting App/User/app/src/main/res/layout/activity_support.xml" value="0.27447916666666666" />
+        <entry key="..\:/Our Sourcing/Android App/Chatting App/User/app/src/main/res/layout/activity_support2.xml" value="0.27447916666666666" />
+        <entry key="..\:/Our Sourcing/Android App/Chatting App/User/app/src/main/res/layout/item_message.xml" value="0.27447916666666666" />
+        <entry key="..\:/Our Sourcing/Android App/Chatting App/app/src/main/res/layout/activity_admin.xml" value="0.27447916666666666" />
+        <entry key="..\:/Our Sourcing/Android App/Chatting App/app/src/main/res/layout/activity_chat2.xml" value="0.27447916666666666" />
+        <entry key="..\:/Our Sourcing/Android App/Chatting App/app/src/main/res/layout/activity_current_location.xml" value="0.27447916666666666" />
+        <entry key="..\:/Our Sourcing/Android App/Chatting App/app/src/main/res/layout/activity_home.xml" value="0.27447916666666666" />
+        <entry key="..\:/Our Sourcing/Android App/Chatting App/app/src/main/res/layout/activity_nearby_hospital.xml" value="0.27447916666666666" />
+        <entry key="..\:/Our Sourcing/Android App/Chatting App/app/src/main/res/menu/drawer_menu.xml" value="0.27447916666666666" />
+        <entry key="..\:/Out Sourcing/Android App/Chatting App/User/app/src/main/res/layout/activity_emergency.xml" value="0.24074074074074073" />
+        <entry key="..\:/Out Sourcing/Android App/Chatting App/User/app/src/main/res/layout/activity_emergency1.xml" value="0.27447916666666666" />
+        <entry key="..\:/Out Sourcing/Android App/Chatting App/User/app/src/main/res/menu/drawer_menu.xml" value="0.27447916666666666" />
+        <entry key="app/src/main/res/drawable/ic_contact.xml" value="0.2345" />
+        <entry key="app/src/main/res/drawable/ic_danger.xml" value="0.2345" />
+        <entry key="app/src/main/res/drawable/ic_local_hospital.xml" value="0.2345" />
+        <entry key="app/src/main/res/drawable/ic_local_police.xml" value="0.2345" />
+        <entry key="app/src/main/res/drawable/ic_my_location.xml" value="0.2345" />
+        <entry key="app/src/main/res/layout/activity_contact_list.xml" value="0.27717391304347827" />
+        <entry key="app/src/main/res/layout/activity_current_location.xml" value="0.27717391304347827" />
+        <entry key="app/src/main/res/layout/activity_emergency.xml" value="0.27717391304347827" />
+        <entry key="app/src/main/res/layout/activity_emergency1.xml" value="0.27717391304347827" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.27717391304347827" />
+        <entry key="app/src/main/res/layout/activity_information.xml" value="0.27717391304347827" />
+        <entry key="app/src/main/res/layout/activity_nearby_hospital.xml" value="0.27717391304347827" />
+        <entry key="app/src/main/res/layout/activity_nearby_police.xml" value="0.27717391304347827" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.27717391304347827" />
+        <entry key="app/src/main/res/menu/drawer_menu.xml" value="0.30885416666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
